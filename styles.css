@@ -1,0 +1,97 @@
+
+.container {
+    margin: 0 auto;    
+    max-width:1200px;   
+}
+
+.cabecera {
+    
+    border: 10px solid black;
+    background-color: lightgray;
+    margin: 10px;
+}
+
+.item-1{
+    
+    display:flex;
+    border: 10px solid black;
+}
+.item-2{
+    border: 10px solid black;
+}
+
+.c-1,.c-2,.c-3 {
+    width: 25% ;
+    background-color: red;
+    border: 15px solid grey;
+    padding: 10px;
+}
+.c-2{
+    width: 50%
+}
+
+.c-4 {
+    background-color: yellow;
+    border: 15px solid orange;
+}
+
+.main { 
+    
+    display:flex;
+    border: 10px solid black;
+    background-color: lightgray;
+    margin: 10px;
+}
+
+.articulos-header{
+
+    flex-basis: 75%;
+    display: flex;
+    flex-direction: column;
+    border: 10px solid black;
+    
+}
+
+.articulos-item{
+
+    columns: 2;
+
+
+}
+.art1, .art2, .art3, .art4 {
+
+    flex-basis: calc(50% -10px);
+    background-color: rgb(28, 120, 173);
+    border: 10px solid grey;
+
+}
+
+.art1, .art2{
+    width: 100%;
+}
+.navegacio{
+    background-color: rgb(138, 173, 206);
+    border: 10px solid grey;
+}
+
+.publicidad{
+    width: 30%;
+    background-color: red;
+    border: 10px solid black;
+    
+}
+
+.card {
+    margin: 20px;  
+    background-color: yellow;
+    padding: 5px;
+}
+
+.footer {
+    
+    background-color: rgb(233, 233, 155);
+    border: 20px solid black;
+    margin: 10px;
+    padding: 10px;
+    
+}
