@@ -98,7 +98,10 @@
 
 @media only screen and (max-width: 768px) {
 
-
+    body{
+        background-color: blueviolet;
+    }
+    
     .item-1{
        display: flex;
        flex-direction: column;
@@ -118,7 +121,10 @@
 
 }
 @media only screen and (max-width: 600px) {
-
+    
+    body{
+        background-color: blue;
+    }
 
     .articulos-item{
         display: flex;
