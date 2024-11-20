@@ -95,3 +95,35 @@
     padding: 10px;
     
 }
+
+@media only screen and (max-width: 768px) {
+
+
+    .item-1{
+       display: flex;
+       flex-direction: column;
+       
+    }
+    .c-1, .c-2, .c-3{
+        width: auto;
+    }
+    .main{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .publicidad{
+        width: auto;
+    }
+
+}
+@media only screen and (max-width: 600px) {
+
+
+    .articulos-item{
+        display: flex;
+        flex-direction: column;
+
+    }
+
+}
