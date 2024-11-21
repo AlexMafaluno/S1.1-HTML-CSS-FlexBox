@@ -7,7 +7,6 @@ Este proyecto contiene un layout responsive desarrollado con HTML y CSS, a parti
 ## ✨ Características
 
 - **Flexbox**: Uso de Flexbox para la disposición flexible de los elementos.
-- 
 - **Diseño Responsivo:** Compatible con dispositivos móviles y de escritorio para una experiencia uniforme en todas las plataformas.
 
 ## 💻 Tecnologías Utilizadas
