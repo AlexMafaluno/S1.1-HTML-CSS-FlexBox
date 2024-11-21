@@ -28,7 +28,6 @@ La estructura de archivos y carpetas es la siguiente:
 ```
 
 - **index.html**: Contiene el código HTML estructural del layout. Aquí se definen los contenedores principales y los elementos dentro de ellos.
-- 
 - **style.css**: Contiene los estilos necesarios para que el layout se ajuste adecuadamente en diferentes dispositivos usando Flexbox.
 
 ## 🛠️ Instalación
