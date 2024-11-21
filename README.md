@@ -39,5 +39,5 @@ La estructura de archivos y carpetas es la siguiente:
 Clona este repositorio en tu máquina local utilizando Git:
    
    ```bash
-   git clone https://github.com/basantades/S1.1.-HTML-i-CSS-amb-Flex
+   git clone https://github.com/AlexMafaluno/S1.1-HTML-CSS-FlexBox
    ```
