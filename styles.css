@@ -21,11 +21,40 @@
 }
 
 .c-1,.c-2,.c-3 {
+    position: relative;
     width: 25% ;
     background-color: red;
     border: 15px solid grey;
     padding: 10px;
 }
+
+
+.c-1:hover{
+    cursor: pointer;
+    animation-duration: 500ms;
+    animation-name: mianimacion;    
+    animation-fill-mode: forwards;
+    
+
+}
+/*animacion div logo */
+
+@keyframes mianimacion{
+    from {
+        background-color: red;
+        
+    }
+    to {
+        
+        background-color: blueviolet; 
+        padding: 15px; 
+        font-size: 20px;
+        width: calc(25%-10px);
+        margin: 0 auto;
+    
+    }
+}
+
 .c-2{
     width: 50%
 }
@@ -95,6 +124,7 @@
     padding: 10px;
     
 }
+/*Media queries*/
 
 @media only screen and (max-width: 768px) {
 
