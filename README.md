@@ -1,9 +1,8 @@
+# S1.1. HTML i CSS Flexbox
 
-## 📄 Descripción
+## Descripción del Proyecto
 
-Este repositorio contiene los recursos del frontend de la aplicación , diseñada para facilitar la búsqueda y gestión de habitaciones para alquilar. 
-
-La aplicación permite a los usuarios buscar habitaciones por geolocalización o preferencias, interactuar con el backend para gestionar usuarios, propiedades, habitaciones y transacciones, y proporcionar una experiencia fluida e intuitiva.
+Este proyecto contiene un layout responsive desarrollado con HTML y CSS, a partir de wireframes en png diferentes tamaños de pantalla (escritorio, tablet y móvil).
 
 ## ✨ Características
 
@@ -11,17 +10,14 @@ La aplicación permite a los usuarios buscar habitaciones por geolocalización o
 
 - **Búsqueda Avanzada:** Funcionalidad de búsqueda avanzada basada en geolocalización y preferencias de usuario.
 
-- **Integración con Backend:** Conexión directa con el backend de ezhub para gestionar datos de usuarios, propiedades y habitaciones.
-
 - **Diseño Responsivo:** Compatible con dispositivos móviles y de escritorio para una experiencia uniforme en todas las plataformas.
-
-- **Personalización con Angular Material y Tailwind:** Utilización de Angular Material y Tailwind CSS para diseñar una interfaz moderna y atractiva.
 
 ## 💻 Tecnologías Utilizadas
 
 - HTML5
 - SCSS
 - FlexBox
+- 
 
 ## 📋 Requisitos
 
